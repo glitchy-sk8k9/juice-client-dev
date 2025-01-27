@@ -65,3 +65,4 @@ Juice Client is 100% completely safe to use. Releases are built directly with th
 - AwesomeSam for a basic Resource Swapper
 - Error430 for optimizations
 - robertpakalns for various bug fixes, optimizations, and tweaks
+- i\_am\_called\_glitchy for minor tweaks
